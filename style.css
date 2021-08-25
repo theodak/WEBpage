@@ -1,0 +1,18 @@
+html,
+body {
+	margin: 20px;
+	padding: 10px;
+	background: blue;
+}
+h1 {
+		font-family: Apple Chancery, cursive;
+	color: #3C1874;
+	background: yellow;
+	padding: 75px;
+	}
+p {
+		font-family: Apple Chancery, cursive;
+	color: orchid;
+	background: blue;
+	padding: 50px;
+	}
